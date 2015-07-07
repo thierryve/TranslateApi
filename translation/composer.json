@@ -1,0 +1,12 @@
+{
+    "name": "thierryve/TranslationApi",
+    "authors": [
+        {
+            "name": "Thierry"
+        }
+    ],
+    "require": {
+        "silex/silex": "^1.3",
+        "predis/predis": "^1.0"
+    }
+}

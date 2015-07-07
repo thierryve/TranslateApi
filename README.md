@@ -16,7 +16,7 @@ When vagrant is install and puphpet config is added go to the project folder, ru
 	
     vagrant up
 
-The vagrant file is automatically installing all the tools you need. 
+The vagrant is automatically installing all the tools you need. 
 After the virtual machine is up and running.
     
     vagrant ssh

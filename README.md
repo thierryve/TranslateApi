@@ -12,12 +12,12 @@ First download and install vagrant see http://docs.vagrantup.com/v2/installation
 To download the full puphpet configuation go to http://puphpet.com and drag puphpet/config.yaml in your browser to upload.
 Extract and copy all files/folders to you project folder.
 
-When vagrant is install and puphpet config is added go to the project folder, run the following command and grab a coffee
+When vagrant is install and puphpet config is added go to the project folder, run the following command and grab a coffee.
 	
     vagrant up
 
 The vagrant is automatically installing all the tools you need. 
-After the virtual machine is up and running.
+After the virtual machine is up and running. Run:
     
     vagrant ssh
     

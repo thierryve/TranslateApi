@@ -69,6 +69,10 @@ By default nl_NL and en_GB are accepted languages. To add more edit index.php on
 ## Contributing ?
 Feel free to use, fork or add issues.
 
+### TODO
+* add unit tests
+* add functional tests
+
 ## Thanks
 Thanks to https://puphpet.com/ for creating a simple web interface to configure vagrant boxes
 
